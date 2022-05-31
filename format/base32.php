@@ -1,5 +1,5 @@
 <?php
-namespace crypto;
+namespace format;
 /**
 * Encode in Base32 based on RFC 4648.
 * Requires 20% more space than base64 
